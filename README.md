@@ -1,16 +1,12 @@
-### Hi there 👋
+<p align="center">
+<img src="https://raw.githubusercontent.com/Fidode07/ImageHost/main/icon.png"/>
+</p>
+<h1 align="center">Fido_de07</h1>
 
-<!--
-**Fidode07/Fidode07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hi! I have no idea what must stand here but here is simply a profile about me:
+- Name: Lukas
+- Age: 15 Years
+- Hobbys: Only Programming:
+- Website: <a href="https://fidode07.github.io/">fidode07.github.io</a>
+- Discord: Fido_de07#9227
+-
