@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://raw.githubusercontent.com/Fidode07/ImageHost/main/icon.png"/>
+<img src="https://raw.githubusercontent.com/Fidode07/ImageHost/main/icon-rounded.png"/>
 </p>
 <h1 align="center">Fido_de07</h1>
 <br>
