@@ -1,8 +1,8 @@
 <p align="center">
 <img src="https://raw.githubusercontent.com/Fidode07/ImageHost/main/icon.png"/>
 </p>
-<h1 align="center" style="padding: 10px 20px;">Fido_de07</h1>
-
+<h1 align="center">Fido_de07</h1>
+<br>
 
 Hi! I have no idea what must stand here but here is simply a profile about me:
 - Name: Lukas
