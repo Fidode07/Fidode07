@@ -14,4 +14,4 @@ Hi! I have no idea what must stand here but here is simply a profile about me:
 # Stats
 <img src="https://github-readme-stats.vercel.app/api?username=Fidode07&theme=dracula"/>
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/Fidode07/ImageHost/a8ecea3ec9507729e70817a04755158eb9e54c02/github-user-contribution%20(2).svg"/>
