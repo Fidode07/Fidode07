@@ -9,7 +9,7 @@ Hi! I have no idea what must stand here but here is simply a profile about me:
 - Age: 16 Years
 - Hobbys: Only Programming
 - Website: <a href="https://fidode07.github.io/">fidode07.github.io</a>
-- Discord: Fido_de07#9227
+- Discord: fido_de07
 
 # Stats
 <img src="https://github-readme-stats.vercel.app/api?username=Fidode07&theme=dracula"/>
