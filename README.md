@@ -51,7 +51,7 @@
 ## Statistics
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vn7n24fzkq&theme=2077" width="38%"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Fidode07&theme=2077" width="38%"/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Fidode07&theme=2077&utcOffset=8" width="38%"/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Fidode07&theme=2077" width="38%"/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Fidode07&theme=2077" width="38%"/>
