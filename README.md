@@ -37,7 +37,7 @@
 
 ## Current Projects
 - 📝 Developing a Web Text Editor for teachers (currently private) in JavaScript
-- 🧠 Working on machine learning models for <a href="https://github.com/Fidode07/BaxterLite">BaxterLite</a>, a Voice Assistent Framework in Python.
+- 🧠 Working on machine learning models for [BaxterLite](https://github.com/Fidode07/BaxterLite), a Voice Assistent Framework in Python.
 
 ## Experience
 - 🖥️ Software Developer at Land Software - Focus on Apex and JavaScript
