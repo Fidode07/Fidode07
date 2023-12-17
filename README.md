@@ -45,7 +45,7 @@
 - 🎓 Constantly learning and deepening my knowledge in various areas of software development
 
 ## Languages and Tools
-- 👨‍💻 Java, PHP, C#, JavaScript, Apex
+- 👨‍💻 Python, Java, PHP, C#, JavaScript, Apex
 - 🌐 HTML, CSS, SCSS
 
 ## Statistics
