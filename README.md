@@ -31,7 +31,7 @@
 
 
 ## About Me
-- 🎓 16 years old, currently in secondary school
+- 🎓 17 years old, currently in secondary school
 - 💻 Employed Software developer with expertise in Apex and JavaScript
 - 🌐 Experience in web development using HTML, CSS, SCSS, JavaScript
 - 🖥️ Proficient in various programming languages like Java, PHP, C#
