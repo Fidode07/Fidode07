@@ -32,7 +32,7 @@
 
 ## About Me
 - 🎓 17 years old, currently in secondary school
-- ~~💻Employed Software developer with expertise in Apex and JavaScript~~
+- ~~💻 Employed Software developer with expertise in Apex and JavaScript~~
 - 💻 Employed Software developer with expertise in Godot and Unity
 - 🌐 Experience in web development using HTML, CSS, SCSS, JavaScript
 - 🖥️ Proficient in various programming languages like Java, PHP, C#
