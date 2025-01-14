@@ -44,7 +44,8 @@
 - 🧠 Working on machine learning models for [BaxterLite](https://github.com/Fidode07/BaxterLite), a Voice Assistent Framework in Python.
 
 ## Experience
-- 🖥️ Software Developer at Land Software - Focus on Apex and JavaScript
+- 🖥️ Software Developer at Land Software - Focus on Apex and JavaScript [Quit: 30.09.2024]
+- 🖥️ Software Developer at QM-Interactive - Focus on Godot and Unity
 - 🛠️ Developed frameworks in Vanilla JavaScript, React and Python
 - 🎓 Constantly learning and deepening my knowledge in various areas of software development
 
